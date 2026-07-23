@@ -1,7 +1,8 @@
 # Portofolio
 ## Power BI
 
-![pizza_sales_dashboard](https://github.com/asrakhmyssd/Power-Bi-Dashboard)
+https://github.com/asrakhmyssd/Power-Bi-Dashboard
 
 
 ## Excel
+https://github.com/asrakhmyssd/gym_members_dashboard
